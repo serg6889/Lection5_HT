@@ -3,9 +3,10 @@
 void FillArray(int[] massive)
 {
     int length = massive.Length;
+    var random = new Random();
     for (int index = 0; index < length; index++)
     {
-        massive[index]= new.Random().Next(100, 110);
+        massive[index]= random.Next(100, 999);
     }
 }
 void PrintArray(int[] collection)
@@ -13,27 +14,27 @@ void PrintArray(int[] collection)
     int count = collection.Length;
     for( int position = 0; position < count; position++)
     {
-        Console.Writeline(collection[position]);
+        Console.WriteLine(collection[position]);
     }
 
 }
 
-int GetOddNumber(int[element] mass)
-{   int element = 100;
-    int rate = mass.Length;
-    for(int location = 0; location < rate; rate++)
+int GetEvenNumbers(int[] mass)
+{   
+    int evencount = 0;
+    foreach(var element in mass)
     {
-        if (element % 2 ==0)
-        {
-            Console.Writeline(element);
-            element+=2; 
+        if (element % 2 == 0)
+        {  
+            evencount+=1; 
         }
         
     }
-
+    return evencount;
 }
 
-int[] array = new int[];
+int[] array = new int[100];
 
 FillArray(array);
-PrintArray(array);
+int result = GetEvenNumbers(array);
+Console.WriteLine(result);
