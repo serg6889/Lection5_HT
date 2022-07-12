@@ -16,7 +16,6 @@ void PrintArray(int[] collection)
     {
         Console.WriteLine(collection[position]);
     }
-
 }
 
 int GetEvenNumbers(int[] mass)
@@ -27,8 +26,7 @@ int GetEvenNumbers(int[] mass)
         if (element % 2 == 0)
         {  
             evencount+=1; 
-        }
-        
+        } 
     }
     return evencount;
 }
@@ -36,5 +34,7 @@ int GetEvenNumbers(int[] mass)
 int[] array = new int[100];
 
 FillArray(array);
+PrintArray(array);
 int result = GetEvenNumbers(array);
+Console.WriteLine();
 Console.WriteLine(result);
