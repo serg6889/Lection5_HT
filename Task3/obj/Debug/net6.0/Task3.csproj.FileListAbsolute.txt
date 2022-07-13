@@ -1,0 +1,5 @@
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.csproj.AssemblyReference.cache
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.AssemblyInfoInputs.cache
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.AssemblyInfo.cs
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.csproj.CoreCompileInputs.cache
