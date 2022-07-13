@@ -3,3 +3,13 @@
 /Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.AssemblyInfoInputs.cache
 /Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.AssemblyInfo.cs
 /Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.csproj.CoreCompileInputs.cache
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/bin/Debug/net6.0/Task3
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/bin/Debug/net6.0/Task3.deps.json
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/bin/Debug/net6.0/Task3.runtimeconfig.json
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/bin/Debug/net6.0/Task3.dll
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/bin/Debug/net6.0/Task3.pdb
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.dll
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/refint/Task3.dll
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.pdb
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/Task3.genruntimeconfig.cache
+/Users/sergeykovalev/Desktop/GB_course_VSC/Lection5_HT/Task3/obj/Debug/net6.0/ref/Task3.dll
